@@ -1,0 +1,227 @@
+[
+ {
+  "file": "sfx/effects/blast1.mp3",
+  "name": "blast1",
+  "category": "effects",
+  "prompt": "Heavy WW1 artillery shell explosion in a forest, deep boom, dirt debris falling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/blast2.mp3",
+  "name": "blast2",
+  "category": "effects",
+  "prompt": "Distant artillery shell impact explosion, rumbling boom",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/volley.mp3",
+  "name": "volley",
+  "category": "effects",
+  "prompt": "Three WW1 bolt-action rifles firing almost together, sharp cracks",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/hit.mp3",
+  "name": "hit",
+  "category": "effects",
+  "prompt": "Soft feather poof impact, small bird hit, feathers puff, cartoon",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/flap.mp3",
+  "name": "flap",
+  "category": "effects",
+  "prompt": "Pigeon wings flapping fast taking off",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/flap2.mp3",
+  "name": "flap2",
+  "category": "effects",
+  "prompt": "Pigeon flying steadily, rhythmic wing flaps passing by",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/cannon.mp3",
+  "name": "cannon",
+  "category": "effects",
+  "prompt": "WW1 field artillery cannon firing one shot, loud boom with echo",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/march.mp3",
+  "name": "march",
+  "category": "effects",
+  "prompt": "Group of soldiers walking on forest ground, boots on leaves and mud, gear rattling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/whistle.mp3",
+  "name": "whistle",
+  "category": "effects",
+  "prompt": "Incoming artillery shell whistle falling then impact thud",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/draw.mp3",
+  "name": "draw",
+  "category": "effects",
+  "prompt": "Pencil quickly sketching lines on paper, drafting",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/stamp.mp3",
+  "name": "stamp",
+  "category": "effects",
+  "prompt": "Heavy rubber stamp thud on paper desk",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/paper.mp3",
+  "name": "paper",
+  "category": "effects",
+  "prompt": "Paper note unfolding rustle",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/coo.mp3",
+  "name": "coo",
+  "category": "effects",
+  "prompt": "Single pigeon coo, deadpan",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/pop.mp3",
+  "name": "pop",
+  "category": "effects",
+  "prompt": "Cute magical sparkle pop, cartoon",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/crickets.mp3",
+  "name": "crickets",
+  "category": "effects",
+  "prompt": "Crickets chirping in awkward silence",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/scan.mp3",
+  "name": "scan",
+  "category": "effects",
+  "prompt": "Sci-fi lab scanner beam sweeping hum with beeps",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/tick.mp3",
+  "name": "tick",
+  "category": "effects",
+  "prompt": "Fast mechanical counter ticking up, digits rolling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/drawer.mp3",
+  "name": "drawer",
+  "category": "effects",
+  "prompt": "Metal filing cabinet drawer sliding open, papers shuffling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/thud.mp3",
+  "name": "thud",
+  "category": "effects",
+  "prompt": "Bird landing clumsily on wooden board, small thud and scuffle",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/phone.mp3",
+  "name": "phone",
+  "category": "effects",
+  "prompt": "Old WW1 field telephone crank ringing briefly",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/ambience/amb_forest.mp3",
+  "name": "amb_forest",
+  "category": "ambience",
+  "prompt": "WW1 battlefield forest ambience, distant artillery rumble, faint gunfire, wind in trees",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/ambience/amb_field.mp3",
+  "name": "amb_field",
+  "category": "ambience",
+  "prompt": "Quiet countryside field ambience, wind, distant birds, far away artillery rumble",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/ambience/amb_room.mp3",
+  "name": "amb_room",
+  "category": "ambience",
+  "prompt": "Quiet museum hall room tone, soft hum, distant footsteps",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/music/mus_tense.mp3",
+  "name": "mus_tense",
+  "category": "music",
+  "prompt": "Tense cinematic war music loop, driving snare drum and low strings, urgent, 100 bpm, no vocals",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/music/mus_light.mp3",
+  "name": "mus_light",
+  "category": "music",
+  "prompt": "Light comedic military march loop, pizzicato strings and snare, playful, 100 bpm, no vocals",
+  "source": "ElevenLabs sound-generation",
+  "film": "Cher Ami",
+  "added": "2026-11-17"
+ }
+]
