@@ -223,5 +223,104 @@
   "source": "ElevenLabs sound-generation",
   "film": "Cher Ami",
   "added": "2026-11-17"
+ },
+ {
+  "file": "sfx/effects/fire_burst.mp3",
+  "name": "fire_burst",
+  "category": "effects",
+  "prompt": "Flamethrower burst whoosh, liquid fire spraying out of a nozzle, roaring flame",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/fire_loop.mp3",
+  "name": "fire_loop",
+  "category": "effects",
+  "prompt": "Large fire burning on water, crackling and roaring steadily, close up",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/splash.mp3",
+  "name": "splash",
+  "category": "effects",
+  "prompt": "Bucket of water thrown onto burning flames, splash and loud sizzle",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/ambience/sea_amb.mp3",
+  "name": "sea_amb",
+  "category": "ambience",
+  "prompt": "Open sea ambience, gentle waves lapping against a wooden ship hull, light wind, soft creaking wood",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/wave.mp3",
+  "name": "wave",
+  "category": "effects",
+  "prompt": "Big ocean wave rolling past and crashing, whoosh",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/sand.mp3",
+  "name": "sand",
+  "category": "effects",
+  "prompt": "Bucket of dry sand poured onto a fire, sandy hiss and smothered sizzle",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/pour.mp3",
+  "name": "pour",
+  "category": "effects",
+  "prompt": "Liquid glugging out of a clay jug and splashing, short sizzle",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/cackle.mp3",
+  "name": "cackle",
+  "category": "effects",
+  "prompt": "Tiny cartoon fire creature giggling mischievously, crackly little laugh",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/chest.mp3",
+  "name": "chest",
+  "category": "effects",
+  "prompt": "Old wooden chest lid creaking open slowly, dusty puff",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/effects/whisper.mp3",
+  "name": "whisper",
+  "category": "effects",
+  "prompt": "Small group of people whispering secretly, hushed",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/music/mus_byz.mp3",
+  "name": "mus_byz",
+  "category": "music",
+  "prompt": "Playful mischievous comedic adventure music loop, plucked oud and frame drum with pizzicato strings, light and bouncy, 105 bpm, no vocals",
+  "source": "ElevenLabs sound-generation",
+  "film": "Greek Fire (How It Works #02)",
+  "added": "2026-11-18"
  }
 ]
