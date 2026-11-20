@@ -403,5 +403,77 @@
   "source": "ElevenLabs sound-generation",
   "film": "Roman Baths (How It Works #04)",
   "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/crumble.mp3",
+  "name": "crumble",
+  "category": "effects",
+  "prompt": "concrete chunks cracking and crumbling, small pieces falling into water, close up",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/ambience/gulls.mp3",
+  "name": "gulls",
+  "category": "ambience",
+  "prompt": "seagulls calling over a sunny harbor, a few distinct gull cries, no music",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/drill.mp3",
+  "name": "drill",
+  "category": "effects",
+  "prompt": "core drill boring into stone concrete, steady grinding whir, short",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/yuck.mp3",
+  "name": "yuck",
+  "category": "effects",
+  "prompt": "cartoon man disgusted sniff and short 'bleh' sound, comedic, no words",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/ambience/oven.mp3",
+  "name": "oven",
+  "category": "ambience",
+  "prompt": "industrial lab furnace humming and roaring softly, electric hum, steady",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/drip.mp3",
+  "name": "drip",
+  "category": "effects",
+  "prompt": "water dripping steadily onto a metal tray in a quiet lab, clear drips",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/trowel.mp3",
+  "name": "trowel",
+  "category": "effects",
+  "prompt": "mason trowel scraping and smoothing wet mortar on stone, quick strokes",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/music/mus_harbor.mp3",
+  "name": "mus_harbor",
+  "category": "music",
+  "prompt": "playful upbeat ancient Mediterranean instrumental loop, plucked lyre and frame drum, light flute, cheerful curious mood, steady tempo, seamless loop, no vocals",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Concrete (How It Works #05)",
+  "added": "2026-11-20"
  }
 ]
