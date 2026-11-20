@@ -322,5 +322,86 @@
   "source": "ElevenLabs sound-generation",
   "film": "Greek Fire (How It Works #02)",
   "added": "2026-11-18"
+ },
+ {
+  "file": "sfx/music/mus_roman.mp3",
+  "name": "mus_roman",
+  "category": "music",
+  "prompt": "Light playful comedic ancient Roman music loop, plucked lyre and pan flute, frame drum, bouncy and curious, documentary comedy, seamless loop, no vocals",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/steam_hiss.mp3",
+  "name": "steam_hiss",
+  "category": "effects",
+  "prompt": "Hot steam hissing from cracks in a stone floor, sizzling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/clack.mp3",
+  "name": "clack",
+  "category": "effects",
+  "prompt": "Wooden clog sandals clacking quickly on a marble tile floor, a few steps",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/coins.mp3",
+  "name": "coins",
+  "category": "effects",
+  "prompt": "Gold coins pouring into a leather pouch, jingling",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/ambience/bath_amb.mp3",
+  "name": "bath_amb",
+  "category": "ambience",
+  "prompt": "Ancient Roman bath house interior ambience, echoing murmur of people, water dripping and splashing, reverberant stone hall",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/ball_roll.mp3",
+  "name": "ball_roll",
+  "category": "effects",
+  "prompt": "A clay ball rolling over rough brick floor, rumbling then stopping with a soft thud",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/log_drop.mp3",
+  "name": "log_drop",
+  "category": "effects",
+  "prompt": "Heavy wooden logs dropping onto a pile, hollow wooden thuds",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/ouch_hop.mp3",
+  "name": "ouch_hop",
+  "category": "effects",
+  "prompt": "Cartoon bare feet hopping on a hot floor, quick comedic taps and a sizzle, no voice",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/sign_flip.mp3",
+  "name": "sign_flip",
+  "category": "effects",
+  "prompt": "Wooden sign board flipping around on a creaky hinge, swish and clack",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Baths (How It Works #04)",
+  "added": "2026-11-20"
  }
 ]
