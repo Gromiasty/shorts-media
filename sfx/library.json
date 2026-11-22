@@ -475,5 +475,86 @@
   "source": "ElevenLabs sound-generation",
   "film": "Roman Concrete (How It Works #05)",
   "added": "2026-11-20"
+ },
+ {
+  "file": "sfx/effects/water_rush.mp3",
+  "name": "water_rush",
+  "category": "effects",
+  "prompt": "Fast water rushing through a narrow stone channel, constant gushing stream, splashy",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/squeak.mp3",
+  "name": "squeak",
+  "category": "effects",
+  "prompt": "Two cartoon rats squeaking quickly, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/squelch.mp3",
+  "name": "squelch",
+  "category": "effects",
+  "prompt": "Wet rubbery octopus tentacles slapping and squelching, cartoon slimy pop",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/brrr.mp3",
+  "name": "brrr",
+  "category": "effects",
+  "prompt": "Cartoon man shivering from cold, teeth chattering brrr, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/chatter.mp3",
+  "name": "chatter",
+  "category": "effects",
+  "prompt": "One man chattering nonstop quickly in a friendly gibberish murmur, comedic blah blah",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/gasp.mp3",
+  "name": "gasp",
+  "category": "effects",
+  "prompt": "Small group of men gasping in shock together, short comedic oh!",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/whistle_inn.mp3",
+  "name": "whistle_inn",
+  "category": "effects",
+  "prompt": "Man whistling a short innocent tune while walking away, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/ambience/latrine_amb.mp3",
+  "name": "latrine_amb",
+  "category": "ambience",
+  "prompt": "Ancient Roman street ambience, distant crowd murmur, footsteps on stone, chickens clucking, flowing water fountain",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/music/mus_latrine.mp3",
+  "name": "mus_latrine",
+  "category": "music",
+  "prompt": "Playful cheeky comedic ancient Roman music loop, bouncy tuba and plucked lyre, light hand drums, sneaky and silly, seamless loop",
+  "source": "ElevenLabs sound-generation",
+  "film": "Roman Latrine (How It Works #06)",
+  "added": "2026-11-22"
  }
 ]
