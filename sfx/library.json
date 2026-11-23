@@ -556,5 +556,131 @@
   "source": "ElevenLabs sound-generation",
   "film": "Roman Latrine (How It Works #06)",
   "added": "2026-11-22"
+ },
+ {
+  "file": "sfx/effects/wood_rattle.mp3",
+  "name": "wood_rattle",
+  "category": "effects",
+  "prompt": "Very fast rapid-fire wooden mechanical rattling clatter like a wooden machine gun, rapid clacking, cartoonish, no gunshots",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/thunk.mp3",
+  "name": "thunk",
+  "category": "effects",
+  "prompt": "Short dull thunk of a wooden crossbow bolt hitting a straw target",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/wind_tumble.mp3",
+  "name": "wind_tumble",
+  "category": "effects",
+  "prompt": "Lonely desert wind whistle, western standoff, tumbleweed comedy moment",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/crank.mp3",
+  "name": "crank",
+  "category": "effects",
+  "prompt": "Slow squeaky ratchet crank winding a heavy medieval crossbow, wooden creaking clicks",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/yawn.mp3",
+  "name": "yawn",
+  "category": "effects",
+  "prompt": "Cartoon man long bored yawn",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/huh.mp3",
+  "name": "huh",
+  "category": "effects",
+  "prompt": "Short confused cartoon huh sound, single voice",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/plop.mp3",
+  "name": "plop",
+  "category": "effects",
+  "prompt": "Comedic weak plop of a small stick falling softly into dirt, sad trombone-like dull",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/boing.mp3",
+  "name": "boing",
+  "category": "effects",
+  "prompt": "Cartoon metallic boing ricochet off a steel helmet, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/bubble.mp3",
+  "name": "bubble",
+  "category": "effects",
+  "prompt": "Small bubbling cauldron pot, gooey bubbles",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/clap.mp3",
+  "name": "clap",
+  "category": "effects",
+  "prompt": "Small crowd of three people clapping politely and cheering briefly",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/click.mp3",
+  "name": "click",
+  "category": "effects",
+  "prompt": "Tiny metal screwdriver click tweak",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/facepalm.mp3",
+  "name": "facepalm",
+  "category": "effects",
+  "prompt": "Comedic hand slapping forehead facepalm with exasperated sigh",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/ambience/amb_yard.mp3",
+  "name": "amb_yard",
+  "category": "ambience",
+  "prompt": "Ancient Chinese town courtyard ambience, distant chatter, chickens, light breeze, flags flapping, no music",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/music/mus_china.mp3",
+  "name": "mus_china",
+  "category": "music",
+  "prompt": "Playful cheeky comedic ancient Chinese music loop, plucked guzheng and pipa, light woodblocks and small drums, bouncy and sneaky, seamless loop",
+  "source": "ElevenLabs sound-generation",
+  "film": "Repeating Crossbow (How It Works #07)",
+  "added": "2026-11-23"
  }
 ]
