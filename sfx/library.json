@@ -682,5 +682,167 @@
   "source": "ElevenLabs sound-generation",
   "film": "Repeating Crossbow (How It Works #07)",
   "added": "2026-11-23"
+ },
+ {
+  "file": "sfx/effects/twang.mp3",
+  "name": "twang",
+  "category": "effects",
+  "prompt": "Light cartoon bowstring twang release, comedic springy, short",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/ow.mp3",
+  "name": "ow",
+  "category": "effects",
+  "prompt": "Cartoon squeaky surprised ow yelp of a big round character, comedic, short, no words",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/bonk.mp3",
+  "name": "bonk",
+  "category": "effects",
+  "prompt": "Cartoon wooden bonk on a head, comedic, single hit",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/neigh.mp3",
+  "name": "neigh",
+  "category": "effects",
+  "prompt": "Annoyed horse snort and short grumpy whinny, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/crunch.mp3",
+  "name": "crunch",
+  "category": "effects",
+  "prompt": "Arrow punching through a straw target, crunchy straw burst",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/chisel.mp3",
+  "name": "chisel",
+  "category": "effects",
+  "prompt": "Hammer tapping a metal chisel on marble stone, quick rhythmic taps",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/snap.mp3",
+  "name": "snap",
+  "category": "effects",
+  "prompt": "Wooden bow snapping in half, sharp crack with wood splinters",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/gallop.mp3",
+  "name": "gallop",
+  "category": "effects",
+  "prompt": "Horse galloping fast on dry grass steppe, rhythmic hooves",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/sip.mp3",
+  "name": "sip",
+  "category": "effects",
+  "prompt": "Old man slowly slurping hot tea, satisfied sigh, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/grumble.mp3",
+  "name": "grumble",
+  "category": "effects",
+  "prompt": "Small group of impatient men grumbling and muttering, comedic, no clear words",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/knock.mp3",
+  "name": "knock",
+  "category": "effects",
+  "prompt": "Impatient knocking on a wooden window frame, three fast knocks",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/tweet.mp3",
+  "name": "tweet",
+  "category": "effects",
+  "prompt": "Small bird single cheerful tweet",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/bowdraw.mp3",
+  "name": "bowdraw",
+  "category": "effects",
+  "prompt": "Wooden bow being drawn, creaking string tension, short",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/effects/crowd_ooh.mp3",
+  "name": "crowd_ooh",
+  "category": "effects",
+  "prompt": "Small crowd saying ooh in amazement, short",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/music/mus_steppe.mp3",
+  "name": "mus_steppe",
+  "category": "music",
+  "prompt": "Playful cheeky comedic Central Asian steppe music loop, plucked dombra and light frame drum, galloping rhythm, bouncy, instrumental",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/ambience/amb_steppe.mp3",
+  "name": "amb_steppe",
+  "category": "ambience",
+  "prompt": "Open grassy steppe camp ambience, soft wind, distant horses, faint campfire crackle, no music",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/music/mus_steppe.mp3",
+  "name": "mus_steppe",
+  "category": "music",
+  "prompt": "Playful cheeky comedic Central Asian steppe music loop, plucked dombra and light frame drum, galloping rhythm, bouncy, instrumental",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/ambience/amb_steppe.mp3",
+  "name": "amb_steppe",
+  "category": "ambience",
+  "prompt": "Open grassy steppe camp ambience, soft wind, distant horses, faint campfire crackle, no music",
+  "source": "ElevenLabs sound-generation",
+  "film": "composite_bow (#08)",
+  "date": "2026-11-24"
  }
 ]
