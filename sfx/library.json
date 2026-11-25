@@ -844,5 +844,86 @@
   "source": "ElevenLabs sound-generation",
   "film": "composite_bow (#08)",
   "date": "2026-11-24"
+ },
+ {
+  "file": "sfx/music/mus_egypt.mp3",
+  "name": "mus_egypt",
+  "category": "music",
+  "prompt": "Playful comedic ancient Egyptian instrumental music loop, oud melody, darbuka and finger cymbals, bouncy pizzicato strings, 105 bpm, light and cheeky",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/ambience/amb_desert.mp3",
+  "name": "amb_desert",
+  "category": "ambience",
+  "prompt": "Soft desert wind ambience, light sand blowing, distant workers chattering faintly, calm, no music",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/slide_whoosh.mp3",
+  "name": "slide_whoosh",
+  "category": "effects",
+  "prompt": "Cartoon heavy stone block sliding very fast across smooth ice like a curling stone, long rumbling glide whoosh",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/strike.mp3",
+  "name": "strike",
+  "category": "effects",
+  "prompt": "Cartoon bowling strike, many stone pins crashing and clattering, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/heave.mp3",
+  "name": "heave",
+  "category": "effects",
+  "prompt": "Large group of men grunting together with effort while pulling a heavy rope, 'hup', strained",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/scrape.mp3",
+  "name": "scrape",
+  "category": "effects",
+  "prompt": "Heavy wooden sled scraping slowly over dry sand, grinding, sand pushing",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/mud_gloop.mp3",
+  "name": "mud_gloop",
+  "category": "effects",
+  "prompt": "Cartoon heavy object sinking into thick mud, slow sucking gloop and squelch",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/rope_creak.mp3",
+  "name": "rope_creak",
+  "category": "effects",
+  "prompt": "Thick hemp rope creaking and stretching under heavy tension",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
+ },
+ {
+  "file": "sfx/effects/yay_small.mp3",
+  "name": "yay_small",
+  "category": "effects",
+  "prompt": "Small group of workers cheering happily 'yay', short, comedic",
+  "source": "ElevenLabs sound-generation",
+  "film": "egyptian_sled (#09)",
+  "date": "2026-11-25"
  }
 ]
