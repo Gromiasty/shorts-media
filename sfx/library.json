@@ -925,5 +925,82 @@
   "source": "ElevenLabs sound-generation",
   "film": "egyptian_sled (#09)",
   "date": "2026-11-25"
+ },
+ {
+  "name": "ding",
+  "file": "sfx/effects/ding.mp3",
+  "prompt": "cartoon computer mouse click with a bright soft ding",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "crash_pots",
+  "file": "sfx/effects/crash_pots.mp3",
+  "prompt": "cartoon clay pots shattering",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "pfft",
+  "file": "sfx/effects/pfft.mp3",
+  "prompt": "weak comedic pfft puff, dud firework",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "hay_burst",
+  "file": "sfx/effects/hay_burst.mp3",
+  "prompt": "cartoon poof of a hay bale exploding",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "fizzle",
+  "file": "sfx/effects/fizzle.mp3",
+  "prompt": "small sputtering fuses hissing",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "clatter",
+  "file": "sfx/effects/clatter.mp3",
+  "prompt": "wooden poles falling on grass",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "ignite",
+  "file": "sfx/effects/ignite.mp3",
+  "prompt": "gunpowder flash igniting in a pan",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "boom_slow",
+  "file": "sfx/effects/boom_slow.mp3",
+  "prompt": "cannon.mp3 slowed to 55% + lowpass (local ffmpeg)",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "wood_break",
+  "file": "sfx/effects/wood_break.mp3",
+  "prompt": "synthesized chain of wood cracks (local Python)",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "forge_amb",
+  "file": "sfx/ambience/forge_amb.mp3",
+  "prompt": "medieval blacksmith workshop ambience",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
+ },
+ {
+  "name": "mus_medieval",
+  "file": "sfx/music/mus_medieval.mp3",
+  "prompt": "synthesized medieval loop (local Python), weak - not used in #10",
+  "film": "matchlock (#10)",
+  "date": "2026-11-26"
  }
 ]
